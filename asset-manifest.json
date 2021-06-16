@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/SIA_Cares/static/css/main.88465a66.chunk.css",
+    "main.js": "/SIA_Cares/static/js/main.67de491a.chunk.js",
+    "main.js.map": "/SIA_Cares/static/js/main.67de491a.chunk.js.map",
+    "runtime-main.js": "/SIA_Cares/static/js/runtime-main.99fdd1c5.js",
+    "runtime-main.js.map": "/SIA_Cares/static/js/runtime-main.99fdd1c5.js.map",
+    "static/css/2.01296cc8.chunk.css": "/SIA_Cares/static/css/2.01296cc8.chunk.css",
+    "static/js/2.9d10d0d3.chunk.js": "/SIA_Cares/static/js/2.9d10d0d3.chunk.js",
+    "static/js/2.9d10d0d3.chunk.js.map": "/SIA_Cares/static/js/2.9d10d0d3.chunk.js.map",
+    "static/js/3.a7a51930.chunk.js": "/SIA_Cares/static/js/3.a7a51930.chunk.js",
+    "static/js/3.a7a51930.chunk.js.map": "/SIA_Cares/static/js/3.a7a51930.chunk.js.map",
+    "index.html": "/SIA_Cares/index.html",
+    "static/css/2.01296cc8.chunk.css.map": "/SIA_Cares/static/css/2.01296cc8.chunk.css.map",
+    "static/css/main.88465a66.chunk.css.map": "/SIA_Cares/static/css/main.88465a66.chunk.css.map",
+    "static/js/2.9d10d0d3.chunk.js.LICENSE.txt": "/SIA_Cares/static/js/2.9d10d0d3.chunk.js.LICENSE.txt",
+    "static/media/information.9c4331cd.png": "/SIA_Cares/static/media/information.9c4331cd.png",
+    "static/media/slider_1.a94a0c3a.jpg": "/SIA_Cares/static/media/slider_1.a94a0c3a.jpg",
+    "static/media/slider_2.cbb14e9c.jpg": "/SIA_Cares/static/media/slider_2.cbb14e9c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99fdd1c5.js",
+    "static/css/2.01296cc8.chunk.css",
+    "static/js/2.9d10d0d3.chunk.js",
+    "static/css/main.88465a66.chunk.css",
+    "static/js/main.67de491a.chunk.js"
+  ]
+}
